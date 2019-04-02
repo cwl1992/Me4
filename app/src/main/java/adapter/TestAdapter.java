@@ -12,6 +12,9 @@ public class TestAdapter extends BaseAdapter {
     //注释2-----------
 
 
+	//注释3-------------
+
+
     @Override
     public int getCount() {
         return 0;
