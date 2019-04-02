@@ -5,6 +5,13 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 
 public class TestAdapter extends BaseAdapter {
+
+
+    //你好
+
+    //注释2-----------
+
+
     @Override
     public int getCount() {
         return 0;

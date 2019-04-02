@@ -2,8 +2,15 @@ package adapter;
 
 public class AA {
 
+    //添加注释
+
     private String name;
     private int age;
+
+    public AA(String name, int age) {
+        this.name = name;
+        this.age = age;
+    }
 
     public String getName() {
         return name;
